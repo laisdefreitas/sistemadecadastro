@@ -14,4 +14,4 @@ Praticar os fundamentos do desenvolvimento front-end, incluindo:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/sistema-cadastro.git
+git clone https://github.com/laisdefreitas/sistema-cadastro.git
